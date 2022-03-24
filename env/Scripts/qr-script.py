@@ -1,4 +1,4 @@
-#!D:\my_projects\Qrcode_Generator\env\Scripts\python.exe
+#!"E:\my_projects\william\New folder\django-qrcode-gen\env\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'qrcode==7.3.1','console_scripts','qr'
 import re
 import sys

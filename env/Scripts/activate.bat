@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\my_projects\Qrcode_Generator\env
+set VIRTUAL_ENV=E:\my_projects\william\New folder\django-qrcode-gen\env
 
 if not defined PROMPT set PROMPT=$P$G
 
